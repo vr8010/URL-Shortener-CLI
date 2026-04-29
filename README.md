@@ -61,7 +61,9 @@ Output:
 https://tinyurl.com/xyz123
 ```
 📌 Use Cases
+```
 Sharing long links easily
 Automation scripts
 Developer utilities
 CLI productivity tools
+```
